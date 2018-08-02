@@ -1,0 +1,93 @@
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\ApplicationInsights.config
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Newsletter AppMVC.dll.config
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Newsletter AppMVC.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Newsletter AppMVC.pdb
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\csc.exe
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\csc.exe.config
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\csc.rsp
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\csi.exe
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\csi.exe.config
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\csi.rsp
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Console.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\vbc.exe
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\vbc.exe.config
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\vbc.rsp
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Antlr3.Runtime.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Newtonsoft.Json.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Helpers.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Mvc.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Optimization.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Razor.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.WebPages.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\WebGrease.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Helpers.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Mvc.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Optimization.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.Razor.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.WebPages.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Newtonsoft.Json.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\obj\Debug\Newsletter AppMVC.csprojAssemblyReference.cache
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\obj\Debug\Newsletter AppMVC.csproj.CoreCompileInputs.cache
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\obj\Debug\Newsletter AppMVC.csproj.CopyComplete
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\obj\Debug\Newsletter AppMVC.dll
+C:\Users\Reis\Documents\Visual Studio 2017\Projects\Newsletter AppMVC\Newsletter AppMVC\obj\Debug\Newsletter AppMVC.pdb
